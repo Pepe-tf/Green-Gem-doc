@@ -1,0 +1,3 @@
+# Fallen Land
+---
+The Fallen Land was once a place of life and peace, where a benevolent god ruled and lived among its people named [[Eryndral]]. However, after the god was imprisoned, the land descended into a nightmare. Ordinary humans began to transform into monsters, and life and peace gave way to never-ending pain. As a final act of hope, the god lifted the safe part of the land into the sky, creating a sanctuary to protect its inhabitants and preserve the future of the gods.

@@ -1,0 +1,2 @@
+# God
+After the land fell into ruin, a banished soul rose for an adventure—one that would change this land once and for all. Banished and forged through hell, they strove to restore this land to the glorious place it once was, a place anyone would wish to call home. The Banished arrived at the Green Gem, hoping the Lord would choose them. As they touched the gem, their form slowly faded into it, and thus, [[Lord Bill]] became the new god of the Land Under.
