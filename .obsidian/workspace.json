@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore & storys/Land Under.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Land Under"
+              "title": "LICENSE"
             }
           }
         ]
@@ -176,8 +176,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "10a8cd135dcb2455",
+  "active": "f180a147e71cf909",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
+    "Lore & storys/Land Under.md",
     "Map & Places/Eryndral.md",
     "Main Quest/The Quest.md",
     "Main Quest/Where am I.md",
@@ -185,7 +188,6 @@
     "Map & Places/The fallen land.md",
     "Npc & character/Ava.md",
     "Npc & character/banished.md",
-    "Lore & storys/Land Under.md",
     "Npc & character/Lord Bill.md",
     "Kuy.md",
     "Npc & character/Cedric Blackthorn.md",
