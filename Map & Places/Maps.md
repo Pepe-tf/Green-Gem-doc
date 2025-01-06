@@ -6,3 +6,4 @@
 7. [[Land of Madness]] can be enter in lobby
 8. [[Land of Undead]] can be enter in lobby
 9. [[The round island]] can be enter in lobby
+10. [[Eryndral]] can be enter in lobby
