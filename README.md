@@ -20,10 +20,7 @@ To join the Green Gem server, follow these steps:
 2. **Join the Green Gem Server**:
    - Server IP: `mc.ggem.buzz`
    - Port: `25565`
-
-3. **Install Required Mods (if applicable)**: Some custom mods or resource packs may be required to experience the full features of the server.
-
-4. **Connect and Play**: Log into the server and start your journey into the world of Green Gem!
+3. **Connect and Play**: Log into the server and start your journey into the world of Green Gem!
 
 ## Gameplay
 ---
