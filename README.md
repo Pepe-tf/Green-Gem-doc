@@ -18,8 +18,10 @@ To join the Green Gem server, follow these steps:
 
 1. **Download Minecraft Java Edition**: Make sure you have the latest version of Minecraft Java Edition installed.
 2. **Join the Green Gem Server**:
+
    - Server IP: `mc.ggem.buzz`
    - Port: `25565`
+   
 3. **Connect and Play**: Log into the server and start your journey into the world of Green Gem!
 
 ## Gameplay
